@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  adjective: MyString
+  belongs_to: MyString
+  noun: one
+  verb: one
+
+two:
+  adjective: MyString
+  belongs_to: MyString
+  noun: two
+  verb: two
