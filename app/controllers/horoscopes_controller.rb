@@ -32,11 +32,13 @@ class HoroscopesController < ApplicationController
 
   # PATCH/PUT /horoscopes/1
   def update
-    if @horoscope.update(horoscope_params)
-      render json: @horoscope
-    else
-      render json: @horoscope.errors, status: :unprocessable_entity
-    end
+    # if @horoscope.update(horoscope_params)
+    #   render json: @horoscope
+    # else
+    #   render json: @horoscope.errors, status: :unprocessable_entity
+    # end
+    byebug
+    
   end
 
   # DELETE /horoscopes/1
