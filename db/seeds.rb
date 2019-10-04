@@ -243,10 +243,14 @@ willing = Adjective.create(word: "willing")
 witty = Adjective.create(word: "witty")
 
 
-temp1= Template.create(content: "A ADJECTIVE day is fun with NOUN that are VERB")
+temp1= Template.create(content: "Today brings ADJECTIVE surprises, so make sure you VERB until the NOUNs come home.")
 
 
 temp2 = Template.create(content: "Step into your ADJECTIVE zone and VERB today, the cards are in your favor. No NOUN can stop you this week.")
+temp3 = Template.create(content: "You've been so ADJECTIVE this week. Stop and VERB with your favorite NOUN today, you deserve it.")
+temp4 = Template.create(content: "This week is gonna be hella ADJECTIVE-y, but when push comes to shove, you can always VERB it out. Just stay on the lookout for random NOUNs. ")
+
+
 
 Horoscope.create(adjective: willing, verb: avoid, noun: train, template: temp2)
 
