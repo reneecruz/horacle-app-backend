@@ -248,7 +248,7 @@ temp1= Template.create(content: "Today brings ADJECTIVE surprises, so make sure 
 
 temp2 = Template.create(content: "Step into your ADJECTIVE zone and VERB today, the cards are in your favor. No NOUN can stop you this week.")
 temp3 = Template.create(content: "You've been so ADJECTIVE this week. Stop and VERB with your favorite NOUN today, you deserve it.")
-temp4 = Template.create(content: "This week is gonna be hella ADJECTIVE-y, but when push comes to shove, you can always VERB it out. Just stay on the lookout for random NOUNs. ")
+temp4 = Template.create(content: "This week is gonna be hella ADJECTIVE, but when push comes to shove, you can always VERB it out. Just stay on the lookout for random NOUNs. ")
 
 
 
