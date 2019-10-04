@@ -21,7 +21,7 @@ class HoroscopesController < ApplicationController
 
   # POST /horoscopes
   def create
-    @horoscope = Horoscope.new(horoscope_params)
+    @horoscope = Horoscope.new(adjective_id: params[:adjective_id], noun_id: params[:noun_id], verb_id: params[:verb_id], template_id: params[:template_id])
 
     if @horoscope.save
       render json: @horoscope, status: :created, location: @horoscope
@@ -52,6 +52,6 @@ class HoroscopesController < ApplicationController
 
     # Only allow a trusted parameter "white list" through.
     def horoscope_params
-      params.require(:horoscope).permit(:adjective, :belongs_to, :noun_id, :verb_id)
+      params[:adjective_id, :noun_id, :verb_id, :template_id]
     end
 end

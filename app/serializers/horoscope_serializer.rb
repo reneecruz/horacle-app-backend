@@ -1,5 +1,7 @@
 class HoroscopeSerializer < ActiveModel::Serializer
-  attributes :id, :adjective, :belongs_to, :text
-  has_one :noun
-  has_one :verb
+  attributes :id, :text
+  belongs_to :noun
+  belongs_to :verb
+  belongs_to :adjective
+  belongs_to :template
 end
