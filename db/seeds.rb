@@ -249,6 +249,15 @@ temp1= Template.create(content: "Today brings ADJECTIVE surprises, so make sure 
 temp2 = Template.create(content: "Step into your ADJECTIVE zone and VERB today, the cards are in your favor. No NOUN can stop you this week.")
 temp3 = Template.create(content: "You've been so ADJECTIVE this week. Stop and VERB with your favorite NOUN today, you deserve it.")
 temp4 = Template.create(content: "This week is gonna be hella ADJECTIVE, but when push comes to shove, you can always VERB it out. Just stay on the lookout for random NOUNs. ")
+temp5 = Template.create(content: "There's always time to VERB when you're with your favorite NOUN, its bound to be an ADJECTIVE day. ")
+temp6 = Template.create(content: "Sometimes the best NOUNs are the ones you VERB, so stay ADJECTIVE today and it should be chill.")
+temp7 = Template.create(content: "Today is the perfect day to VERB with your NOUN, as long as you do it in the most ADJECTIVE way possible. ")
+temp8 = Template.create(content: "There's always room for NOUNs on a day like today, so go ahead and VERB your ADJECTIVE tail off. ")
+# temp9 = Template.create(content: "This week is gonna be hella ADJECTIVE, but when push comes to shove, you can always VERB it out. Just stay on the lookout for random NOUNs. ")
+# temp10 = Template.create(content: "This week is gonna be hella ADJECTIVE, but when push comes to shove, you can always VERB it out. Just stay on the lookout for random NOUNs. ")
+# temp11 = Template.create(content: "This week is gonna be hella ADJECTIVE, but when push comes to shove, you can always VERB it out. Just stay on the lookout for random NOUNs. ")
+# temp12 = Template.create(content: "This week is gonna be hella ADJECTIVE, but when push comes to shove, you can always VERB it out. Just stay on the lookout for random NOUNs. ")
+
 
 
 
