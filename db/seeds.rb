@@ -253,10 +253,10 @@ temp5 = Template.create(content: "There's always time to VERB when you're with y
 temp6 = Template.create(content: "Sometimes the best NOUNs are the ones you VERB, so stay ADJECTIVE today and it should be chill.")
 temp7 = Template.create(content: "Today is the perfect day to VERB with your NOUN, as long as you do it in the most ADJECTIVE way possible. ")
 temp8 = Template.create(content: "There's always room for NOUNs on a day like today, so go ahead and VERB your ADJECTIVE tail off. ")
-# temp9 = Template.create(content: "This week is gonna be hella ADJECTIVE, but when push comes to shove, you can always VERB it out. Just stay on the lookout for random NOUNs. ")
-# temp10 = Template.create(content: "This week is gonna be hella ADJECTIVE, but when push comes to shove, you can always VERB it out. Just stay on the lookout for random NOUNs. ")
-# temp11 = Template.create(content: "This week is gonna be hella ADJECTIVE, but when push comes to shove, you can always VERB it out. Just stay on the lookout for random NOUNs. ")
-# temp12 = Template.create(content: "This week is gonna be hella ADJECTIVE, but when push comes to shove, you can always VERB it out. Just stay on the lookout for random NOUNs. ")
+temp9 = Template.create(content: "You may encounter ADJECTIVE challenges, but when you remember to VERB, you'll be the NOUN you always wanted to be. ")
+temp10 = Template.create(content: "There's no point in VERBing today, unless you know that your inner NOUN is totally ADJECTIVE. ")
+temp11 = Template.create(content: "Only the most ADJECTIVE things will matter today, and by VERBing you can be sure you're on your way to becoming the NOUN you've always wanted to be. ")
+temp12 = Template.create(content: "Today is simply the best day to check in with you NOUNs and be sure that all that VERBing that you do has you becoming the ADJECTIVE version of yourself, otherwise why bother, amirite?")
 
 
 
