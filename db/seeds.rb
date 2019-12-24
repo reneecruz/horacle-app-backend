@@ -257,6 +257,16 @@ temp9 = Template.create(content: "You may encounter ADJECTIVE challenges, but wh
 temp10 = Template.create(content: "There's no point in VERBing today, unless you know that your inner NOUN is totally ADJECTIVE. ")
 temp11 = Template.create(content: "Only the most ADJECTIVE things will matter today, and by VERBing you can be sure you're on your way to becoming the NOUN you've always wanted to be. ")
 temp12 = Template.create(content: "Today is simply the best day to check in with you NOUNs and be sure that all that VERBing that you do has you becoming the ADJECTIVE version of yourself, otherwise why bother, amirite?")
+temp13 = Template.create(content: "Make room for NOUNs today because the stars are in your favor. The time for VERBing is upon you and its your chance to go turbo with your ADJECTIVE game.")
+temp14 = Template.create(content: "Today is a day for nostalgia, so be sure to VERB with your best NOUNs today and bring out your inner ADJECTIVE self. ")
+temp15 = Template.create(content: "Sometimes, we need to take a break from VERBing, but today is not one of those days, Honey.  Best to stay ADJECTIVE and work it out with all your NOUNs. ")
+temp16 = Template.create(content: "Today brings new awareness of NOUNs, and you probably couldn't stop VERBing if you tried. But there is no try.  Only do. Do so with the kind of vibe that makes you feel like your most ADJECTIVE self.")
+temp17 = Template.create(content: "The NOUN said there'd be days like these, all you can do is VERB and pray for the sweet ADJECTIVE interruption of sleep.")
+temp18 = Template.create(content: "Check yourself today.  If your default mode is to just VERB all the time, switch it up and find the nearest NOUN and give them an ADJECTIVE taste of your true self.")
+temp19 = Template.create(content: "If your one of those NOUNs who loves to VERB, today is your day, just be sure to use all your ADJECTIVE charms, the stars are in your favor. ")
+temp20 = Template.create(content: "This week is gonna be hella ADJECTIVE, but when push comes to shove, you can always VERB it out. Just stay on the lookout for random NOUNs. ")
+temp21 = Template.create(content: "Be on the look out for ADJECTIVE experiences today, there's a surprise in store from a special NOUN, and it just might make you want to VERB like you mean it. ")
+temp22 = Template.create(content: "Oh, humanity. Today you might wonder why NOUNs seem to always VERB, but the truth is, there's no ADJECTIVE reason why for any of it, so today, just do you, Boo.")
 
 
 
