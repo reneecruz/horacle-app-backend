@@ -9,7 +9,7 @@
 # **The Horacle** | **Madlibs Horoscopes**
 Live on the Interwebs:  https://horacle.netlify.com/ 
 
-## Demo Video Web App Walk-Through: https://youtu.be/c08Gb9X560E
+Demo Video Web App Walk-Through: https://youtu.be/c08Gb9X560E
 
 ## What on Earth is **The Horacle**? 
 
