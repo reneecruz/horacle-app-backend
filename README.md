@@ -1,10 +1,10 @@
 # README 
 
-## Demo Video Web App Walk-Through : https://youtu.be/c08Gb9X560E
-
 # horacle-app-frontend
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/580e6c9a-d61e-4038-89b3-097a51c23d34/deploy-status)](https://app.netlify.com/sites/horacle/deploys)
+
+# Backend Rails API deployed on Heroku 
 
 # **The Horacle** | **Madlibs Horoscopes**
 Live on the Interwebs:  https://horacle.netlify.com/ 
