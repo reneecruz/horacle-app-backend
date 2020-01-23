@@ -29,7 +29,7 @@ And if you're in the mood for a more traditional Astrology Daily Horoscope, scro
 
 ### Dark Mode 
 
-![](horacle_darkmode.gif)
+![](https://github.com/reneecruz/horacle-app-frontend/blob/master/horacle_darkmode.gif)
 
 ### Random Madlibs Generator, Dark Mode
 
