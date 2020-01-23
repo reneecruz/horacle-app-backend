@@ -21,11 +21,11 @@ And if you're in the mood for a more traditional Astrology Daily Horoscope, scro
 
 ### Toggle 
 
-![](horacle_toggle.gif)
+![](https://github.com/reneecruz/horacle-app-frontend/blob/master/horacle_toggle.gif)
 
 ### Light Mode 
 
-![](horacle_lightmode.gif)
+![](https://github.com/reneecruz/horacle-app-frontend/blob/master/horacle_lightmode.gif)
 
 ### Dark Mode 
 
@@ -33,7 +33,7 @@ And if you're in the mood for a more traditional Astrology Daily Horoscope, scro
 
 ### Random Madlibs Generator, Dark Mode
 
-![](horacle_madlibs_dark.gif)
+![](https://github.com/reneecruz/horacle-app-frontend/blob/master/horacle_madlibs_dark.gif)
 
 
 * **JavaScript** Frontend Repo: https://github.com/reneecruz/horacle-app-frontend
@@ -51,6 +51,7 @@ And if you're in the mood for a more traditional Astrology Daily Horoscope, scro
 
 * **Bulma CSS Framework** for tiles 
 
+* Click to Tweet 
 <a target="_blank" href="https://ctt.ac/jCe71"><img src="http://clicktotweet.com/img/tweet-graphic-trans.png" alt="Tweet: Madlibs Astrology is freewill meets the Oracle!  Today the Horacle told me ...
 https://ctt.ac/jCe71+
 #horacle #madlibsastrology #madlibshoroscope https://ctt.ac/jCe71+" /></a>
