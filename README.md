@@ -1,6 +1,6 @@
 # README 
 
-# Demo Video: https://youtu.be/c08Gb9X560E
+## Demo Video Web App Walk-Through : https://youtu.be/c08Gb9X560E
 
 # horacle-app-frontend
 
@@ -36,16 +36,18 @@ And if you're in the mood for a more traditional Astrology Daily Horoscope, scro
 ![](horacle_madlibs_dark.gif)
 
 
-* **Javascript** Frontend 
+* **JavaScript** Frontend Repo: https://github.com/reneecruz/horacle-app-frontend
 
 * **Ruby on Rails API** Backend for Madlibs Oracle Generator & Free-Will Word Selector
     * here's the backend repo: https://github.com/reneecruz/horacle-app-backend
 
 * Additional **External API to Astrology + Horoscope Data**, pulled daily 
 
+* **Vanilla JavaScript**
+
 * **HTML** 
 
-* **CSS**
+* **Vanilla CSS**
 
 * **Bulma CSS Framework** for tiles 
 
